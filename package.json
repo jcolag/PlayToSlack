@@ -1,0 +1,15 @@
+{
+  "name": "playtojson",
+  "version": "1.0.0",
+  "description": "Program to convert a play (script for a theatrical performance) to JSON",
+  "main": "playtojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Colagioia",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "moment": "^2.22.2"
+  }
+}
