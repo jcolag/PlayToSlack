@@ -1,0 +1,91 @@
+{
+  "delay": 300,
+  "source": "./Pygmalion.html",
+  "team": "pygmalion",
+  "team_id": "TSQF0TRK2",
+  "tz": "Europe/London",
+  "tz_label": "Greenwich Mean Time",
+  "tz_offset": -14400,
+  "url": "https://irrelevant-pygmalion-url.slack.com/",
+  "user": "henry",
+  "users": {
+    "alfred": {
+      "id": "UL5RVEROP",
+      "name": "alfred",
+      "color": "1c59f3",
+      "real_name": "Alfred Doolittle"
+    },
+    "bystander": {
+      "id": "UY16K3VQ1",
+      "name": "bystander",
+      "color": "da50ba",
+      "real_name": "Some Bystander"
+    },
+    "clara": {
+      "id": "UCQYFVCBM",
+      "name": "clara",
+      "color": "f790c1",
+      "real_name": "Clara Eynsford-Hill"
+    },
+    "freddy": {
+      "id": "UT1R0H4ON",
+      "name": "freddy",
+      "color": "bd0687",
+      "real_name": "Freddy Eynsford-Hill"
+    },
+    "henry": {
+      "id": "UM8Q3BN97",
+      "name": "henry",
+      "color": "933731",
+      "real_name": "Prof. Henry Higgins"
+    },
+    "liza": {
+      "id": "U2EJ73M3M",
+      "name": "liza",
+      "color": "c7a244",
+      "real_name": "Eliza Doolittle"
+    },
+    "eynsfordhill": {
+      "id": "UCOV26JIO",
+      "name": "eynsfordhill",
+      "color": "637c8a",
+      "real_name": "Mrs. Eynsford-Hill"
+    },
+    "mrshiggins": {
+      "id": "UP28DOPH9",
+      "name": "momhiggins",
+      "color": "4207c4",
+      "real_name": "Mrs. Higgins"
+    },
+    "pearce": {
+      "id": "URE3TZSD6",
+      "name": "pearce",
+      "color": "2e83ca",
+      "real_name": "Mrs. Pearce"
+    },
+    "parlor-maid": {
+      "id": "UB8XO4J2A",
+      "name": "parlormaid",
+      "color": "e1bbbc",
+      "real_name": "Nameless Parlor-Maid"
+    },
+    "pickering": {
+      "id": "U0TLNEQ29",
+      "name": "pickering",
+      "color": "48fdfc",
+      "real_name": "Colonel Pickering"
+    },
+    "sarcasticbystander": {
+      "id": "UHCOA25GH",
+      "name": "author",
+      "color": "bdd896",
+      "real_name": "George Bernard Shaw"
+    },
+    "severalbystanders": {
+      "id": "UZ6T8V3JS",
+      "name": "chorus",
+      "color": "0b5138",
+      "real_name": "Choire Ellada"
+    }
+  }
+}
